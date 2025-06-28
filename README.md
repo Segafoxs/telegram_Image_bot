@@ -17,4 +17,5 @@
 
 - Поместите полученный токен в переменную окружения
 - Запустите файл main.py
-
+# Скриншоты
+![Image alt](https://github.com/Segafoxs/telegram_Image_bot/blob/master/Безымянный.png)
